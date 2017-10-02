@@ -18,7 +18,7 @@ A compiled release will be created as soon as interest is shown.
 
 ### Compile from source
 ```bash
-go get github.com/prasmussen/gdrive
+go get github.com/e-beach/drive-cli
 ```
 The gdrive binary should now be available at `$GOPATH/bin/gdrive`
 
